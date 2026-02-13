@@ -1,0 +1,8 @@
+Header Analysis Performed Using:
+https://mxtoolbox.com/EmailHeaders.aspx
+
+Indicators Found:
+- SPF failed
+- DKIM missing
+- Suspicious sending IP
+- Domain mismatch
